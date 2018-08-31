@@ -2,7 +2,9 @@
 
 EPITECH first year project.
 
-Autonomous car simulation using V-REP (Coded in C)
+Autonomous car simulation using V-REP.
+
+* **Codded primarly in C**
 
 ## Requirements
 

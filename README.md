@@ -18,3 +18,5 @@ Execute "vrep.sh" to open V-REP and open a .ttt file in the software. Do "make" 
 ## Author
 
 * **Sadiquee Mobashir** [LinkedIn](https://www.linkedin.com/in/mobashir-sadiquee-aa429a145/)
+* **Parmentier-cloiseau Maxime**
+* **Savon Benjamin**
